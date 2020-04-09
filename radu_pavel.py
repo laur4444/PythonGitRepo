@@ -1,1 +1,1 @@
-print("Am deadline la PA")
+print("Am deadline la PA azi")
